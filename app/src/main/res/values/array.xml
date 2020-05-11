@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="medal">
+        <item>西安博物馆博物馆</item>
+        <item>六盘水博物馆</item>
+        <item>北京博物馆</item>
+        <item>国家博物馆</item>
+        <item>县博物馆</item>
+        <item>星期五</item>
+        <item>星期六</item>
+        <item>星期天</item>
+        <item>星期0</item>
+        <item>星期1</item>
+        <item>星期2</item>
+        <item>星期3</item>
+        <item>星期4</item>
+        <item>星期5</item>
+        <item>星期6</item>
+        <item>星期7</item>
+        <item>星期8</item>
+        <item>星期9</item>
+        <item>星期10</item>
+    </string-array>
+</resources>
